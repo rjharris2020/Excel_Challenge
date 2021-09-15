@@ -16,4 +16,8 @@ Getting funded on Kickstarter requires meeting or exceeding the project's initia
 2. What are some limitations of this dataset?
 3. What are some other possible tables and/or graphs that we could create?
 
+### Bonus Statistical Analysis
+1. Can I create a line chart that graphs the relationship between a goal's amount and its chances at success, failure, or cancellation?
+2. Evaluate the number of backers of successful and unsuccessful campaigns by creating your a summary statistics table.
+
 Charts and conclusions can be found in the StartedBook_RJH.xlsx and Kickstart My Chart Conclusion.docx files.
