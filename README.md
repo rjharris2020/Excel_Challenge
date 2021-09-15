@@ -1,5 +1,10 @@
 # Excel_Challenge
- My Excel Kickstart homework assignment.
+ My Excel Kickstart assignment used to challenge and display my skills using Excel. Some of the skills I used with assignment include:
+ 1. Creating tables and sorting data
+ 2. Conditional formatting
+ 3. Charts and graphs such as stacked, line, scatter, etc.
+ 4. Pivot charts
+ 5. Pivot tables
  
 ## About this assignment:
 Over $2 billion has been raised using the massively successful crowdfunding service, Kickstarter, but not every project has found success. Of the more than 300,000 projects launched on Kickstarter, only a third have made it through the funding process with a positive outcome.
